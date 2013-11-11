@@ -1,1 +1,5 @@
 Just brusshing up on my Erlang.
+
+* add.erl -- add two numbers
+* countdown.erl -- counts down from a given number
+* heroine.erl -- the start of a text-based game
